@@ -1,0 +1,774 @@
+Disease	Classification	Specialization	Taxonomy Code
+panic disorder	Psychiatry & Neurology	Psychiatry	2084P0800X
+vocal cord polyp	Otolaryngology		207Y00000X
+turner syndrome	Medical Genetics	Clinical Genetics (M.D.)	207SG0201X
+cryptorchidism	Urology	Pediatric Urology	2088P0231X
+poisoning due to ethylene glycol	Emergency Medicine	Medical Toxicology	207PT0002X
+atrophic vaginitis	Obstetrics & Gynecology	Gynecology	207VG0400X
+fracture of the hand	Orthopaedic Surgery	Hand Surgery	207XS0106X
+cellulitis or abscess of mouth	Oral & Maxillofacial Surgery		204E00000X
+eye alignment disorder	Ophthalmology	Pediatric Ophthalmology and Strabismus Specialist	207WX0110X
+headache after lumbar puncture	Anesthesiology		207L00000X
+pyloric stenosis	Surgery	Pediatric Surgery	2086S0120X
+salivary gland disorder	Otolaryngology		207Y00000X
+osteochondrosis	Orthopaedic Surgery	Pediatric Orthopaedic Surgery	207XP3100X
+injury to the knee	Orthopaedic Surgery	Orthopaedic Trauma	207XX0801X
+metabolic disorder	Medical Genetics	Clinical Biochemical Genetics	207SG0202X
+vaginitis	Obstetrics & Gynecology		207V00000X
+sick sinus syndrome	Internal Medicine	Clinical Cardiac Electrophysiology	207RC0001X
+tinnitus of unknown cause	Otolaryngology	Otology & Neurotology	207YX0901X
+glaucoma	Ophthalmology	Glaucoma Specialist	207WX0009X
+eating disorder	Psychiatry & Neurology	Psychiatry	2084P0800X
+transient ischemic attack	Psychiatry & Neurology	Vascular Neurology	2084V0102X
+pyelonephritis	Internal Medicine	Infectious Disease	207RI0200X
+rotator cuff injury	Orthopaedic Surgery		207X00000X
+chronic pain disorder	Anesthesiology	Pain Medicine	207LP2900X
+problem during pregnancy	Obstetrics & Gynecology	Maternal & Fetal Medicine	207VM0101X
+liver cancer	Internal Medicine	Hepatology	207RI0008X
+atelectasis	Internal Medicine	Pulmonary Disease	207RP1001X
+injury to the hand	Orthopaedic Surgery	Hand Surgery	207XS0106X
+choledocholithiasis	Internal Medicine	Gastroenterology	207RG0100X
+injury to the hip	Orthopaedic Surgery	Orthopaedic Trauma	207XX0801X
+cirrhosis	Internal Medicine	Hepatology	207RI0008X
+thoracic aortic aneurysm	Thoracic Surgery (Cardiothoracic Vascular Surgery)		208G00000X
+subdural hemorrhage	Neurological Surgery		207T00000X
+diabetic retinopathy	Ophthalmology	Retina Specialist	207WX0107X
+fibromyalgia	Internal Medicine	Rheumatology	207RR0500X
+ischemia of the bowel	Surgery	Vascular Surgery	2086S0129X
+fetal alcohol syndrome	Pediatrics	Developmental - Behavioral Pediatrics	2080P0006X
+peritonitis	Surgery		208600000X
+injury to the abdomen	Surgery	Trauma Surgery	2086S0127X
+acute pancreatitis	Internal Medicine	Gastroenterology	207RG0100X
+thrombophlebitis	Internal Medicine	Hematology	207RH0000X
+asthma	Allergy & Immunology		207K00000X
+foreign body in the vagina	Obstetrics & Gynecology		207V00000X
+restless leg syndrome	Psychiatry & Neurology	Neurology	2084N0400X
+emphysema	Internal Medicine	Pulmonary Disease	207RP1001X
+cysticercosis	Internal Medicine	Infectious Disease	207RI0200X
+induced abortion	Obstetrics & Gynecology	Obstetrics	207VX0000X
+teething syndrome	Pediatrics		208000000X
+infectious gastroenteritis	Internal Medicine	Infectious Disease	207RI0200X
+acute sinusitis	Family Medicine		207Q00000X
+substance-related mental disorder	Psychiatry & Neurology	Addiction Psychiatry	2084P0802X
+postpartum depression	Psychiatry & Neurology	Psychiatry	2084P0800X
+coronary atherosclerosis	Internal Medicine	Cardiovascular Disease	207RC0000X
+spondylitis	Internal Medicine	Rheumatology	207RR0500X
+pituitary adenoma	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+uterine fibroids	Obstetrics & Gynecology		207V00000X
+idiopathic nonmenstrual bleeding	Obstetrics & Gynecology	Gynecology	207VG0400X
+chalazion	Ophthalmology		207W00000X
+ovarian torsion	Obstetrics & Gynecology		207V00000X
+retinopathy due to high blood pressure	Internal Medicine	Hypertension Specialist	207RH0005X
+vaginal yeast infection	Obstetrics & Gynecology		207V00000X
+mastoiditis	Otolaryngology		207Y00000X
+lung contusion	Surgery	Trauma Surgery	2086S0127X
+hypertrophic obstructive cardiomyopathy (hocm)	Internal Medicine	Cardiovascular Disease	207RC0000X
+ingrown toe nail	Orthopaedic Surgery	Foot and Ankle Surgery	207XX0004X
+pulmonary eosinophilia	Allergy & Immunology	Clinical & Laboratory Immunology	207KI0005X
+corneal disorder	Ophthalmology	Cornea and External Diseases Specialist	207WX0120X
+foreign body in the gastrointestinal tract	Internal Medicine	Gastroenterology	207RG0100X
+endophthalmitis	Ophthalmology	Retina Specialist	207WX0107X
+intestinal malabsorption	Internal Medicine	Gastroenterology	207RG0100X
+viral warts	Dermatology		207N00000X
+hyperhidrosis	Dermatology		207N00000X
+stroke	Psychiatry & Neurology	Vascular Neurology	2084V0102X
+pilonidal cyst	Surgery		208600000X
+crushing injury	Surgery	Trauma Surgery	2086S0127X
+normal pressure hydrocephalus	Neurological Surgery		207T00000X
+alopecia	Dermatology		207N00000X
+hashimoto thyroiditis	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+flat feet	Orthopaedic Surgery	Foot and Ankle Surgery	207XX0004X
+nonalcoholic liver disease (nash)	Internal Medicine	Hepatology	207RI0008X
+hemarthrosis	Internal Medicine	Hematology	207RH0000X
+pelvic organ prolapse	Obstetrics & Gynecology	Urogynecology and Reconstructive Pelvic Surgery	207VF0040X
+fracture of the arm	Orthopaedic Surgery		207X00000X
+coagulation (bleeding) disorder	Internal Medicine	Hematology	207RH0000X
+intracranial hemorrhage	Neurological Surgery		207T00000X
+hyperkalemia	Internal Medicine	Nephrology	207RN0300X
+cornea infection	Ophthalmology	Cornea and External Diseases Specialist	207WX0120X
+abscess of the lung	Internal Medicine	Infectious Disease	207RI0200X
+dengue fever	Internal Medicine	Infectious Disease	207RI0200X
+chronic sinusitis	Otolaryngology		207Y00000X
+cholesteatoma	Otolaryngology		207Y00000X
+volvulus	Surgery		208600000X
+injury to the finger	Orthopaedic Surgery	Hand Surgery	207XS0106X
+poisoning due to analgesics	Emergency Medicine	Medical Toxicology	207PT0002X
+atrial fibrillation	Internal Medicine	Clinical Cardiac Electrophysiology	207RC0001X
+pinworm infection	Internal Medicine	Infectious Disease	207RI0200X
+urethral valves	Urology	Pediatric Urology	2088P0231X
+open wound of the neck	Surgery	Trauma Surgery	2086S0127X
+achalasia	Internal Medicine	Gastroenterology	207RG0100X
+conductive hearing loss	Otolaryngology	Otology & Neurotology	207YX0901X
+abdominal hernia	Surgery		208600000X
+cerebral palsy	Physical Medicine & Rehabilitation	Pediatric Rehabilitation Medicine	2081P0010X
+marijuana abuse	Psychiatry & Neurology	Addiction Psychiatry	2084P0802X
+cryptococcosis	Internal Medicine	Infectious Disease	207RI0200X
+obesity	Internal Medicine	Obesity Medicine	207RB0002X
+indigestion	Internal Medicine	Gastroenterology	207RG0100X
+bursitis	Orthopaedic Surgery	Sports Medicine	207XX0005X
+esophageal cancer	Thoracic Surgery (Cardiothoracic Vascular Surgery)		208G00000X
+pulmonary congestion	Internal Medicine	Pulmonary Disease	207RP1001X
+juvenile rheumatoid arthritis	Pediatrics	Pediatric Rheumatology	2080P0216X
+actinic keratosis	Dermatology		207N00000X
+acute otitis media	Pediatrics		208000000X
+astigmatism	Ophthalmology		207W00000X
+tuberous sclerosis	Psychiatry & Neurology	Neurology with Special Qualifications in Child Neurology	2084N0402X
+empyema	Thoracic Surgery (Cardiothoracic Vascular Surgery)		208G00000X
+presbyacusis	Otolaryngology	Otology & Neurotology	207YX0901X
+neonatal jaundice	Pediatrics	Neonatal-Perinatal Medicine	2080N0001X
+chronic obstructive pulmonary disease (copd)	Internal Medicine	Pulmonary Disease	207RP1001X
+dislocation of the elbow	Orthopaedic Surgery		207X00000X
+spondylosis	Orthopaedic Surgery	Orthopaedic Surgery of the Spine	207XS0117X
+herpangina	Internal Medicine	Infectious Disease	207RI0200X
+injury to the shoulder	Orthopaedic Surgery		207X00000X
+poisoning due to antidepressants	Emergency Medicine	Medical Toxicology	207PT0002X
+infection of open wound	Internal Medicine	Infectious Disease	207RI0200X
+deep vein thrombosis (dvt)	Internal Medicine	Hematology	207RH0000X
+protein deficiency	Internal Medicine	Physician Nutrition Specialist	207RP1002X
+myoclonus	Psychiatry & Neurology	Neurology	2084N0400X
+bone spur of the calcaneous	Orthopaedic Surgery	Foot and Ankle Surgery	207XX0004X
+von willebrand disease	Internal Medicine	Hematology	207RH0000X
+open wound of the back	Surgery	Trauma Surgery	2086S0127X
+heart block	Internal Medicine	Clinical Cardiac Electrophysiology	207RC0001X
+colonic polyp	Internal Medicine	Gastroenterology	207RG0100X
+magnesium deficiency	Internal Medicine		207R00000X
+female infertility of unknown cause	Obstetrics & Gynecology	Reproductive Endocrinology	207VE0102X
+pericarditis	Internal Medicine	Cardiovascular Disease	207RC0000X
+attention deficit hyperactivity disorder (adhd)	Psychiatry & Neurology	Child & Adolescent Psychiatry	2084P0804X
+pulmonic valve disease	Internal Medicine	Cardiovascular Disease	207RC0000X
+tietze syndrome	Internal Medicine	Rheumatology	207RR0500X
+cranial nerve palsy	Psychiatry & Neurology	Neurology	2084N0400X
+injury to the arm	Orthopaedic Surgery		207X00000X
+conversion disorder	Psychiatry & Neurology	Neurology	2084N0400X
+complex regional pain syndrome	Anesthesiology	Pain Medicine	207LP2900X
+otosclerosis	Otolaryngology		207Y00000X
+injury to the trunk	Surgery	Trauma Surgery	2086S0127X
+hypothyroidism	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+primary insomnia	Psychiatry & Neurology	Sleep Medicine	2084S0012X
+lice	Dermatology		207N00000X
+vitamin b12 deficiency	Internal Medicine	Hematology	207RH0000X
+diabetes	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+vulvodynia	Obstetrics & Gynecology		207V00000X
+endometriosis	Obstetrics & Gynecology	Gynecology	207VG0400X
+vasculitis	Internal Medicine	Rheumatology	207RR0500X
+concussion	Psychiatry & Neurology	Brain Injury Medicine	2084P0301X
+oral leukoplakia	Oral & Maxillofacial Surgery		204E00000X
+chronic kidney disease	Internal Medicine	Nephrology	207RN0300X
+bladder disorder	Urology		208800000X
+chorioretinitis	Ophthalmology	Retina Specialist	207WX0107X
+priapism	Urology		208800000X
+myositis	Internal Medicine	Rheumatology	207RR0500X
+mononucleosis	Internal Medicine	Infectious Disease	207RI0200X
+neuralgia	Psychiatry & Neurology	Neurology	2084N0400X
+polycystic kidney disease	Internal Medicine	Nephrology	207RN0300X
+bipolar disorder	Psychiatry & Neurology	Psychiatry	2084P0800X
+amyloidosis	Internal Medicine	Hematology & Oncology	207RH0003X
+chronic inflammatory demyelinating polyneuropathy (cidp)	Psychiatry & Neurology	Neurology	2084N0400X
+gastroesophageal reflux disease (gerd)	Internal Medicine	Gastroenterology	207RG0100X
+vitreous hemorrhage	Ophthalmology	Retina Specialist	207WX0107X
+poisoning due to antimicrobial drugs	Emergency Medicine	Medical Toxicology	207PT0002X
+open wound of the mouth	Oral & Maxillofacial Surgery		204E00000X
+scleroderma	Internal Medicine	Rheumatology	207RR0500X
+myasthenia gravis	Psychiatry & Neurology	Neuromuscular Medicine	2084N0008X
+hypoglycemia	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+idiopathic absence of menstruation	Obstetrics & Gynecology	Reproductive Endocrinology	207VE0102X
+dislocation of the ankle	Orthopaedic Surgery	Foot and Ankle Surgery	207XX0004X
+carbon monoxide poisoning	Emergency Medicine	Medical Toxicology	207PT0002X
+panic attack	Psychiatry & Neurology	Psychiatry	2084P0800X
+plantar fasciitis	Orthopaedic Surgery	Foot and Ankle Surgery	207XX0004X
+hyperopia	Ophthalmology		207W00000X
+poisoning due to sedatives	Emergency Medicine	Medical Toxicology	207PT0002X
+pemphigus	Dermatology	Clinical & Laboratory Dermatological Immunology	207NI0002X
+peyronie disease	Urology		208800000X
+hiatal hernia	Internal Medicine	Gastroenterology	207RG0100X
+extrapyramidal effect of drugs	Psychiatry & Neurology	Neurology	2084N0400X
+meniere disease	Otolaryngology	Otology & Neurotology	207YX0901X
+anal fissure	Colon & Rectal Surgery		208C00000X
+allergy	Allergy & Immunology		207K00000X
+chronic otitis media	Otolaryngology		207Y00000X
+fracture of the finger	Orthopaedic Surgery	Hand Surgery	207XS0106X
+hirschsprung disease	Surgery	Pediatric Surgery	2086S0120X
+polymyalgia rheumatica	Internal Medicine	Rheumatology	207RR0500X
+lymphedema	Physical Medicine & Rehabilitation		208100000X
+bladder cancer	Urology		208800000X
+acute bronchospasm	Internal Medicine	Pulmonary Disease	207RP1001X
+acute glaucoma	Ophthalmology	Glaucoma Specialist	207WX0009X
+open wound of the chest	Surgery	Trauma Surgery	2086S0127X
+dislocation of the patella	Orthopaedic Surgery	Sports Medicine	207XX0005X
+sciatica	Orthopaedic Surgery	Orthopaedic Surgery of the Spine	207XS0117X
+hypercalcemia	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+stress incontinence	Obstetrics & Gynecology	Urogynecology and Reconstructive Pelvic Surgery	207VF0040X
+varicose veins	Phlebology		202K00000X
+benign kidney cyst	Internal Medicine	Nephrology	207RN0300X
+hydrocele of the testicle	Urology		208800000X
+degenerative disc disease	Orthopaedic Surgery	Orthopaedic Surgery of the Spine	207XS0117X
+hirsutism	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+dislocation of the foot	Orthopaedic Surgery	Foot and Ankle Surgery	207XX0004X
+hydronephrosis	Internal Medicine	Nephrology	207RN0300X
+diverticulosis	Internal Medicine	Gastroenterology	207RG0100X
+pain after an operation	Anesthesiology	Pain Medicine	207LP2900X
+huntington disease	Psychiatry & Neurology	Neurology	2084N0400X
+lymphoma	Internal Medicine	Hematology & Oncology	207RH0003X
+dermatitis due to sun exposure	Dermatology		207N00000X
+anemia due to chronic kidney disease	Internal Medicine	Nephrology	207RN0300X
+injury to internal organ	Surgery	Trauma Surgery	2086S0127X
+scleritis	Ophthalmology	Uveitis and Ocular Inflammatory Disease	207WX0108X
+pterygium	Ophthalmology	Cornea and External Diseases Specialist	207WX0120X
+fungal infection of the skin	Dermatology		207N00000X
+insulin overdose	Emergency Medicine	Medical Toxicology	207PT0002X
+syndrome of inappropriate secretion of adh (siadh)	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+foreign body in the ear	Otolaryngology		207Y00000X
+premenstrual tension syndrome	Obstetrics & Gynecology		207V00000X
+orbital cellulitis	Ophthalmology	Ophthalmic Plastic and Reconstructive Surgery	207WX0200X
+injury to the leg	Orthopaedic Surgery		207X00000X
+hepatic encephalopathy	Internal Medicine	Hepatology	207RI0008X
+bone cancer	Surgery	Surgical Oncology	2086X0206X
+syringomyelia	Neurological Surgery		207T00000X
+pulmonary fibrosis	Internal Medicine	Pulmonary Disease	207RP1001X
+mitral valve disease	Internal Medicine	Cardiovascular Disease	207RC0000X
+parkinson disease	Psychiatry & Neurology	Neurology	2084N0400X
+gout	Internal Medicine	Rheumatology	207RR0500X
+otitis media	Otolaryngology		207Y00000X
+drug abuse (opioids)	Psychiatry & Neurology	Addiction Psychiatry	2084P0802X
+myelodysplastic syndrome	Internal Medicine	Hematology & Oncology	207RH0003X
+fracture of the shoulder	Orthopaedic Surgery		207X00000X
+acute kidney injury	Internal Medicine	Nephrology	207RN0300X
+threatened pregnancy	Obstetrics & Gynecology	Maternal & Fetal Medicine	207VM0101X
+intracranial abscess	Neurological Surgery		207T00000X
+gum disease	Dentist	Periodontics	1223P0300X
+open wound from surgical incision	Surgery	Surgical Critical Care	2086S0102X
+gastrointestinal hemorrhage	Internal Medicine	Gastroenterology	207RG0100X
+seborrheic dermatitis	Dermatology		207N00000X
+drug abuse (methamphetamine)	Psychiatry & Neurology	Addiction Psychiatry	2084P0802X
+torticollis	Orthopaedic Surgery	Pediatric Orthopaedic Surgery	207XP3100X
+poisoning due to antihypertensives	Emergency Medicine	Medical Toxicology	207PT0002X
+tension headache	Psychiatry & Neurology	Neurology	2084N0400X
+alcohol intoxication	Emergency Medicine	Medical Toxicology	207PT0002X
+scurvy	Internal Medicine	Physician Nutrition Specialist	207RP1002X
+narcolepsy	Psychiatry & Neurology	Sleep Medicine	2084S0012X
+food allergy	Allergy & Immunology	Allergy	207KA0200X
+labyrinthitis	Otolaryngology	Otology & Neurotology	207YX0901X
+anxiety	Psychiatry & Neurology	Psychiatry	2084P0800X
+impulse control disorder	Psychiatry & Neurology	Psychiatry	2084P0800X
+stenosis of the tear duct	Ophthalmology	Ophthalmic Plastic and Reconstructive Surgery	207WX0200X
+abscess of nose	Otolaryngology		207Y00000X
+omphalitis	Pediatrics		208000000X
+leukemia	Internal Medicine	Hematology & Oncology	207RH0003X
+bell palsy	Psychiatry & Neurology	Neurology	2084N0400X
+conjunctivitis due to allergy	Allergy & Immunology	Allergy	207KA0200X
+drug reaction	Allergy & Immunology	Clinical & Laboratory Immunology	207KI0005X
+adrenal cancer	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+myopia	Ophthalmology		207W00000X
+osteoarthritis	Internal Medicine	Rheumatology	207RR0500X
+thyroid disease	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+pharyngitis	Family Medicine		207Q00000X
+chronic rheumatic fever	Internal Medicine	Cardiovascular Disease	207RC0000X
+hypocalcemia	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+macular degeneration	Ophthalmology	Retina Specialist	207WX0107X
+pneumonia	Internal Medicine	Pulmonary Disease	207RP1001X
+cold sore	Dermatology		207N00000X
+premature ventricular contractions (pvcs)	Internal Medicine	Cardiovascular Disease	207RC0000X
+testicular cancer	Urology		208800000X
+hydrocephalus	Neurological Surgery		207T00000X
+breast cancer	Surgery	Surgical Oncology	2086X0206X
+anemia due to malignancy	Internal Medicine	Hematology & Oncology	207RH0003X
+esophageal varices	Internal Medicine	Gastroenterology	207RG0100X
+endometrial cancer	Obstetrics & Gynecology	Gynecologic Oncology	207VX0201X
+cystic fibrosis	Pediatrics	Pediatric Pulmonology	2080P0214X
+intertrigo (skin condition)	Dermatology		207N00000X
+parathyroid adenoma	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+glucocorticoid deficiency	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+temporomandibular joint disorder	Oral & Maxillofacial Surgery		204E00000X
+wilson disease	Internal Medicine	Hepatology	207RI0008X
+vesicoureteral reflux	Urology	Pediatric Urology	2088P0231X
+vitamin a deficiency	Internal Medicine	Physician Nutrition Specialist	207RP1002X
+gonorrhea	Internal Medicine	Infectious Disease	207RI0200X
+fracture of the rib	Surgery	Trauma Surgery	2086S0127X
+ependymoma	Neurological Surgery		207T00000X
+hepatitis due to a toxin	Internal Medicine	Hepatology	207RI0008X
+vaginal cyst	Obstetrics & Gynecology		207V00000X
+open wound of the shoulder	Surgery	Trauma Surgery	2086S0127X
+ectopic pregnancy	Obstetrics & Gynecology	Obstetrics	207VX0000X
+chronic knee pain	Orthopaedic Surgery	Adult Reconstructive Orthopaedic Surgery	207XS0114X
+pinguecula	Ophthalmology	Cornea and External Diseases Specialist	207WX0120X
+hypergammaglobulinemia	Internal Medicine	Hematology	207RH0000X
+alcohol abuse	Psychiatry & Neurology	Addiction Psychiatry	2084P0802X
+carpal tunnel syndrome	Orthopaedic Surgery	Hand Surgery	207XS0106X
+pituitary disorder	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+kidney stone	Urology		208800000X
+autism	Pediatrics	Developmental - Behavioral Pediatrics	2080P0006X
+cat scratch disease	Internal Medicine	Infectious Disease	207RI0200X
+chronic glaucoma	Ophthalmology	Glaucoma Specialist	207WX0009X
+retinal detachment	Ophthalmology	Retina Specialist	207WX0107X
+aplastic anemia	Internal Medicine	Hematology & Oncology	207RH0003X
+overflow incontinence	Internal Medicine	Nephrology	207RN0300X
+hemolytic anemia	Internal Medicine	Hematology	207RH0000X
+lateral epicondylitis (tennis elbow)	Orthopaedic Surgery	Sports Medicine	207XX0005X
+open wound of the eye	Ophthalmology		207W00000X
+syphilis	Internal Medicine	Infectious Disease	207RI0200X
+diabetic kidney disease	Internal Medicine	Nephrology	207RN0300X
+nose disorder	Otolaryngology		207Y00000X
+drug withdrawal	Psychiatry & Neurology	Addiction Psychiatry	2084P0802X
+dental caries	Dentist	General Practice	1223G0001X
+hypercholesterolemia	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+fracture of the patella	Orthopaedic Surgery	Sports Medicine	207XX0005X
+kidney failure	Internal Medicine	Nephrology	207RN0300X
+fracture of the neck	Orthopaedic Surgery	Orthopaedic Surgery of the Spine	207XS0117X
+muscle spasm	Physical Medicine & Rehabilitation		208100000X
+hemophilia	Internal Medicine	Hematology	207RH0000X
+hyperosmotic hyperketotic state	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+peritonsillar abscess	Otolaryngology		207Y00000X
+gastroparesis	Internal Medicine	Gastroenterology	207RG0100X
+itching of unknown cause	Dermatology		207N00000X
+polycythemia vera	Internal Medicine	Hematology	207RH0000X
+thrombocytopenia	Internal Medicine	Hematology	207RH0000X
+head and neck cancer	Otolaryngology		207Y00000X
+pseudohypoparathyroidism	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+goiter	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+urge incontinence	Urology		208800000X
+edward syndrome	Medical Genetics	Clinical Genetics (M.D.)	207SG0201X
+open wound of the arm	Surgery	Trauma Surgery	2086S0127X
+muscular dystrophy	Psychiatry & Neurology	Neuromuscular Medicine	2084N0008X
+mittelschmerz	Obstetrics & Gynecology		207V00000X
+corneal abrasion	Ophthalmology	Cornea and External Diseases Specialist	207WX0120X
+anemia of chronic disease	Internal Medicine	Hematology	207RH0000X
+dysthymic disorder	Psychiatry & Neurology	Psychiatry	2084P0800X
+scarlet fever	Pediatrics		208000000X
+hypertensive heart disease	Internal Medicine	Cardiovascular Disease	207RC0000X
+drug abuse (barbiturates)	Psychiatry & Neurology	Addiction Psychiatry	2084P0802X
+polycystic ovarian syndrome (pcos)	Obstetrics & Gynecology	Reproductive Endocrinology	207VE0102X
+encephalitis	Internal Medicine	Infectious Disease	207RI0200X
+cyst of the eyelid	Ophthalmology	Ophthalmic Plastic and Reconstructive Surgery	207WX0200X
+balanitis	Urology		208800000X
+foreign body in the throat	Otolaryngology		207Y00000X
+drug abuse (cocaine)	Psychiatry & Neurology	Addiction Psychiatry	2084P0802X
+optic neuritis	Psychiatry & Neurology	Neurology	2084N0400X
+alcohol withdrawal	Psychiatry & Neurology	Addiction Psychiatry	2084P0802X
+premature atrial contractions (pacs)	Internal Medicine	Cardiovascular Disease	207RC0000X
+hemiplegia	Physical Medicine & Rehabilitation		208100000X
+hammer toe	Orthopaedic Surgery	Foot and Ankle Surgery	207XX0004X
+open wound of the cheek	Plastic Surgery	Plastic Surgery Within the Head and Neck	2082S0099X
+joint effusion	Orthopaedic Surgery		207X00000X
+open wound of the knee	Surgery	Trauma Surgery	2086S0127X
+meningioma	Neurological Surgery		207T00000X
+brain cancer	Neurological Surgery		207T00000X
+placental abruption	Obstetrics & Gynecology	Maternal & Fetal Medicine	207VM0101X
+seasonal allergies (hay fever)	Allergy & Immunology	Allergy	207KA0200X
+lung cancer	Thoracic Surgery (Cardiothoracic Vascular Surgery)		208G00000X
+primary kidney disease	Internal Medicine	Nephrology	207RN0300X
+uterine cancer	Obstetrics & Gynecology	Gynecologic Oncology	207VX0201X
+dry eye of unknown cause	Ophthalmology	Cornea and External Diseases Specialist	207WX0120X
+fibrocystic breast disease	Obstetrics & Gynecology		207V00000X
+fungal infection of the hair	Dermatology		207N00000X
+tooth abscess	Dentist	Endodontics	1223E0200X
+envenomation from spider or animal bite	Emergency Medicine	Medical Toxicology	207PT0002X
+vacterl syndrome	Medical Genetics	Clinical Genetics (M.D.)	207SG0201X
+vertebrobasilar insufficiency	Psychiatry & Neurology	Vascular Neurology	2084V0102X
+rectal disorder	Colon & Rectal Surgery		208C00000X
+atonic bladder	Physical Medicine & Rehabilitation		208100000X
+benign paroxysmal positional vertical (bppv)	Otolaryngology	Otology & Neurotology	207YX0901X
+blepharospasm	Ophthalmology	Ophthalmic Plastic and Reconstructive Surgery	207WX0200X
+sarcoidosis	Internal Medicine	Pulmonary Disease	207RP1001X
+metastatic cancer	Internal Medicine	Medical Oncology	207RX0202X
+trigger finger (finger disorder)	Orthopaedic Surgery	Hand Surgery	207XS0106X
+stye	Ophthalmology		207W00000X
+hemochromatosis	Internal Medicine	Hematology	207RH0000X
+osteochondroma	Orthopaedic Surgery		207X00000X
+cushing syndrome	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+typhoid fever	Internal Medicine	Infectious Disease	207RI0200X
+vitreous degeneration	Ophthalmology	Retina Specialist	207WX0107X
+atrophic skin condition	Dermatology		207N00000X
+aspergillosis	Internal Medicine	Infectious Disease	207RI0200X
+uterine atony	Obstetrics & Gynecology	Obstetrics	207VX0000X
+trichinosis	Internal Medicine	Infectious Disease	207RI0200X
+whooping cough	Pediatrics	Pediatric Infectious Diseases	2080P0208X
+open wound of the lip	Plastic Surgery	Plastic Surgery Within the Head and Neck	2082S0099X
+subacute thyroiditis	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+oral mucosal lesion	Dentist	Oral and Maxillofacial Pathology	1223P0106X
+open wound due to trauma	Surgery	Trauma Surgery	2086S0127X
+intracerebral hemorrhage	Neurological Surgery		207T00000X
+alzheimer disease	Psychiatry & Neurology	Behavioral Neurology & Neuropsychiatry	2084B0040X
+vaginismus	Obstetrics & Gynecology		207V00000X
+systemic lupus erythematosis (sle)	Internal Medicine	Rheumatology	207RR0500X
+premature ovarian failure	Obstetrics & Gynecology	Reproductive Endocrinology	207VE0102X
+thoracic outlet syndrome	Surgery	Vascular Surgery	2086S0129X
+ganglion cyst	Orthopaedic Surgery	Hand Surgery	207XS0106X
+dislocation of the knee	Orthopaedic Surgery	Orthopaedic Trauma	207XX0801X
+crohn disease	Internal Medicine	Gastroenterology	207RG0100X
+postoperative infection	Surgery	Surgical Critical Care	2086S0102X
+folate deficiency	Internal Medicine	Hematology	207RH0000X
+fluid overload	Internal Medicine	Nephrology	207RN0300X
+atrial flutter	Internal Medicine	Clinical Cardiac Electrophysiology	207RC0001X
+skin disorder	Dermatology		207N00000X
+floaters	Ophthalmology		207W00000X
+tooth disorder	Dentist	General Practice	1223G0001X
+heart attack	Internal Medicine	Cardiovascular Disease	207RC0000X
+open wound of the abdomen	Surgery	Trauma Surgery	2086S0127X
+fracture of the leg	Orthopaedic Surgery	Orthopaedic Trauma	207XX0801X
+oral thrush (yeast infection)	Internal Medicine	Infectious Disease	207RI0200X
+pityriasis rosea	Dermatology		207N00000X
+allergy to animals	Allergy & Immunology	Allergy	207KA0200X
+orthostatic hypotension	Psychiatry & Neurology	Neurology	2084N0400X
+obstructive sleep apnea (osa)	Internal Medicine	Sleep Medicine	207RS0012X
+hypokalemia	Internal Medicine	Nephrology	207RN0300X
+psoriasis	Dermatology		207N00000X
+dislocation of the shoulder	Orthopaedic Surgery		207X00000X
+intussusception	Surgery	Pediatric Surgery	2086S0120X
+cervicitis	Obstetrics & Gynecology		207V00000X
+abscess of the pharynx	Otolaryngology		207Y00000X
+primary thrombocythemia	Internal Medicine	Hematology & Oncology	207RH0003X
+arthritis of the hip	Orthopaedic Surgery		207X00000X
+decubitus ulcer	Plastic Surgery		208200000X
+hypernatremia	Internal Medicine	Nephrology	207RN0300X
+sensorineural hearing loss	Otolaryngology	Otology & Neurotology	207YX0901X
+chronic ulcer	Plastic Surgery		208200000X
+osteoporosis	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+ileus	Surgery		208600000X
+sickle cell crisis	Internal Medicine	Hematology	207RH0000X
+urethritis	Internal Medicine	Infectious Disease	207RI0200X
+prostatitis	Urology		208800000X
+otitis externa (swimmer's ear)	Otolaryngology		207Y00000X
+poisoning due to anticonvulsants	Emergency Medicine	Medical Toxicology	207PT0002X
+testicular torsion	Urology		208800000X
+tricuspid valve disease	Internal Medicine	Cardiovascular Disease	207RC0000X
+urethral stricture	Urology		208800000X
+vitamin d deficiency	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+hydatidiform mole	Obstetrics & Gynecology	Obstetrics	207VX0000X
+pain disorder affecting the neck	Psychiatry & Neurology	Psychosomatic Medicine	2084P0015X
+tuberculosis	Internal Medicine	Infectious Disease	207RI0200X
+pelvic fistula	Obstetrics & Gynecology	Urogynecology and Reconstructive Pelvic Surgery	207VF0040X
+acute bronchiolitis	Pediatrics		208000000X
+presbyopia	Ophthalmology		207W00000X
+dementia	Psychiatry & Neurology	Behavioral Neurology & Neuropsychiatry	2084B0040X
+insect bite	Allergy & Immunology	Allergy	207KA0200X
+paroxysmal ventricular tachycardia	Internal Medicine	Clinical Cardiac Electrophysiology	207RC0001X
+congenital heart defect	Pediatrics	Pediatric Cardiology	2080P0202X
+connective tissue disorder	Internal Medicine	Rheumatology	207RR0500X
+foreign body in the eye	Ophthalmology		207W00000X
+poisoning due to gas	Emergency Medicine	Medical Toxicology	207PT0002X
+pyogenic skin infection	Internal Medicine	Infectious Disease	207RI0200X
+endometrial hyperplasia	Obstetrics & Gynecology		207V00000X
+acanthosis nigricans	Dermatology		207N00000X
+central atherosclerosis	Surgery	Vascular Surgery	2086S0129X
+viral exanthem	Pediatrics		208000000X
+noninfectious gastroenteritis	Internal Medicine	Gastroenterology	207RG0100X
+benign prostatic hyperplasia (bph)	Urology		208800000X
+menopause	Obstetrics & Gynecology		207V00000X
+primary immunodeficiency	Allergy & Immunology		207K00000X
+ovarian cancer	Obstetrics & Gynecology	Gynecologic Oncology	207VX0201X
+cataract	Ophthalmology		207W00000X
+dislocation of the hip	Orthopaedic Surgery	Orthopaedic Trauma	207XX0801X
+spinal stenosis	Orthopaedic Surgery	Orthopaedic Surgery of the Spine	207XS0117X
+intestinal obstruction	Surgery		208600000X
+heart contusion	Surgery	Trauma Surgery	2086S0127X
+congenital malformation syndrome	Medical Genetics	Clinical Genetics (M.D.)	207SG0201X
+sporotrichosis	Internal Medicine	Infectious Disease	207RI0200X
+lymphangitis	Internal Medicine	Infectious Disease	207RI0200X
+wernicke korsakoff syndrome	Psychiatry & Neurology	Behavioral Neurology & Neuropsychiatry	2084B0040X
+intestinal disease	Internal Medicine	Gastroenterology	207RG0100X
+acute bronchitis	Family Medicine		207Q00000X
+persistent vomiting of unknown cause	Internal Medicine	Gastroenterology	207RG0100X
+open wound of the foot	Orthopaedic Surgery	Foot and Ankle Surgery	207XX0004X
+myocarditis	Internal Medicine	Cardiovascular Disease	207RC0000X
+preeclampsia	Obstetrics & Gynecology	Maternal & Fetal Medicine	207VM0101X
+ischemic heart disease	Internal Medicine	Cardiovascular Disease	207RC0000X
+neurofibromatosis	Medical Genetics	Clinical Genetics (M.D.)	207SG0201X
+chickenpox	Pediatrics	Pediatric Infectious Diseases	2080P0208X
+pancreatic cancer	Internal Medicine	Medical Oncology	207RX0202X
+neuropathy due to drugs	Psychiatry & Neurology	Neurology	2084N0400X
+croup	Pediatrics		208000000X
+idiopathic excessive menstruation	Obstetrics & Gynecology		207V00000X
+amblyopia	Ophthalmology	Pediatric Ophthalmology and Strabismus Specialist	207WX0110X
+meckel diverticulum	Surgery	Pediatric Surgery	2086S0120X
+dislocation of the wrist	Orthopaedic Surgery	Hand Surgery	207XS0106X
+ear drum damage	Otolaryngology		207Y00000X
+erectile dysfunction	Urology		208800000X
+temporary or benign blood in urine	Urology		208800000X
+kidney disease due to longstanding hypertension	Internal Medicine	Nephrology	207RN0300X
+chondromalacia of the patella	Orthopaedic Surgery	Sports Medicine	207XX0005X
+onychomycosis	Dermatology		207N00000X
+urethral disorder	Urology		208800000X
+lyme disease	Internal Medicine	Infectious Disease	207RI0200X
+iron deficiency anemia	Internal Medicine	Hematology	207RH0000X
+acute respiratory distress syndrome (ards)	Internal Medicine	Critical Care Medicine	207RC0200X
+toxic multinodular goiter	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+open wound of the finger	Orthopaedic Surgery	Hand Surgery	207XS0106X
+autonomic nervous system disorder	Psychiatry & Neurology	Neurology	2084N0400X
+psychosexual disorder	Psychiatry & Neurology	Psychiatry	2084P0800X
+anemia	Internal Medicine	Hematology	207RH0000X
+tendinitis	Orthopaedic Surgery	Sports Medicine	207XX0005X
+common cold	Family Medicine		207Q00000X
+amyotrophic lateral sclerosis (als)	Psychiatry & Neurology	Neurology	2084N0400X
+central retinal artery or vein occlusion	Ophthalmology	Retina Specialist	207WX0107X
+paroxysmal supraventricular tachycardia	Internal Medicine	Clinical Cardiac Electrophysiology	207RC0001X
+venous insufficiency	Phlebology		202K00000X
+trichomonas infection	Internal Medicine	Infectious Disease	207RI0200X
+acne	Dermatology		207N00000X
+depression	Psychiatry & Neurology	Psychiatry	2084P0800X
+drug abuse	Psychiatry & Neurology	Addiction Psychiatry	2084P0802X
+urinary tract obstruction	Urology		208800000X
+diabetes insipidus	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+iridocyclitis	Ophthalmology	Uveitis and Ocular Inflammatory Disease	207WX0108X
+varicocele of the testicles	Urology		208800000X
+irritable bowel syndrome	Internal Medicine	Gastroenterology	207RG0100X
+fracture of the foot	Orthopaedic Surgery	Foot and Ankle Surgery	207XX0004X
+ovarian cyst	Obstetrics & Gynecology		207V00000X
+chlamydia	Internal Medicine	Infectious Disease	207RI0200X
+parasitic disease	Internal Medicine	Infectious Disease	207RI0200X
+fracture of the jaw	Oral & Maxillofacial Surgery		204E00000X
+lipoma	General Practice		208D00000X
+female genitalia infection	Obstetrics & Gynecology		207V00000X
+pulmonary hypertension	Internal Medicine	Pulmonary Disease	207RP1001X
+thyroid nodule	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+broken tooth	Dentist	General Practice	1223G0001X
+dumping syndrome	Internal Medicine	Gastroenterology	207RG0100X
+lymphadenitis	Internal Medicine	Infectious Disease	207RI0200X
+injury to the face	Plastic Surgery	(none)	208200000X
+aortic valve disease	Thoracic Surgery (Cardiothoracic Vascular Surgery)	(none)	208G00000X
+rheumatoid arthritis	Internal Medicine	Rheumatology	207RR0500X
+spermatocele	Urology	(none)	208800000X
+impetigo	Dermatology	(none)	207N00000X
+anal fistula	Colon & Rectal Surgery	(none)	208C00000X
+hypothermia	Emergency Medicine	(none)	207P00000X
+oppositional disorder	Psychiatry & Neurology	Child & Adolescent Psychiatry	2084P0804X
+migraine	Psychiatry & Neurology	Neurology	2084N0400X
+diabetic peripheral neuropathy	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+testicular disorder	Urology	(none)	208800000X
+gestational diabetes	Obstetrics & Gynecology	Maternal & Fetal Medicine	207VM0101X
+hidradenitis suppurativa	Dermatology	(none)	207N00000X
+valley fever (coccidioidomycosis)	Internal Medicine	Infectious Disease	207RI0200X
+conjunctivitis due to bacteria	Ophthalmology	(none)	207W00000X
+Lewy body dementia	Psychiatry & Neurology	Behavioral Neurology & Neuropsychiatry	2084B0040X
+multiple myeloma	Internal Medicine	Hematology & Oncology	207RH0003X
+head injury (traumatic brain injury)	Psychiatry & Neurology	Brain Injury Medicine	2084P0301X
+ascending cholangitis	Internal Medicine	Gastroenterology	207RG0100X
+idiopathic irregular menstrual cycle	Obstetrics & Gynecology	Reproductive Endocrinology	207VE0102X
+interstitial lung disease	Internal Medicine	Pulmonary Disease	207RP1001X
+mononeuritis (single-nerve neuropathy)	Psychiatry & Neurology	Neurology	2084N0400X
+malaria	Internal Medicine	Infectious Disease	207RI0200X
+somatization disorder	Psychiatry & Neurology	Psychiatry	2084P0800X
+hypovolemia (volume depletion)	Emergency Medicine	(none)	207P00000X
+schizophrenia	Psychiatry & Neurology	Psychiatry	2084P0800X
+knee ligament or meniscus tear	Orthopaedic Surgery	Sports Medicine	207XX0005X
+endocarditis	Internal Medicine	Infectious Disease	207RI0200X
+sepsis	Internal Medicine	Infectious Disease	207RI0200X
+heat stroke	Emergency Medicine	(none)	207P00000X
+cholecystitis	Surgery	(none)	208600000X
+cardiac arrest	Internal Medicine	Critical Care Medicine	207RC0200X
+cardiomyopathy	Internal Medicine	Advanced Heart Failure & Transplant Cardiology	207RA0001X
+social phobia (social anxiety disorder)	Psychiatry & Neurology	Psychiatry	2084P0800X
+meningitis	Internal Medicine	Infectious Disease	207RI0200X
+spherocytosis (hereditary spherocytosis)	Internal Medicine	Hematology	207RH0000X
+hormone disorder (endocrine imbalance)	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+Raynaud disease	Internal Medicine	Rheumatology	207RR0500X
+reactive arthritis (Reiter’s syndrome)	Internal Medicine	Rheumatology	207RR0500X
+scabies	Dermatology	(none)	207N00000X
+ear wax impaction	Otolaryngology (ENT)	(none)	207Y00000X
+hypertension of pregnancy (preeclampsia)	Obstetrics & Gynecology	Maternal & Fetal Medicine	207VM0101X
+peripheral arterial embolism	Surgery	Vascular Surgery	2086S0129X
+rosacea	Dermatology	(none)	207N00000X
+fracture of the skull	Neurological Surgery	(none)	207T00000X
+uveitis	Ophthalmology	Uveitis and Ocular Inflammatory Disease	207WX0108X
+fracture of the facial bones	Dentist	Oral and Maxillofacial Surgery	1223S0112X
+tracheitis (tracheal inflammation/infection)	Otolaryngology (ENT)	(none)	207Y00000X
+jaw disorder (e.g. TMJ dysfunction)	Dentist	Orofacial Pain	1223X2210X
+perirectal infection (perianal abscess)	Colon & Rectal Surgery	(none)	208C00000X
+breast cyst	Surgery	(none)	208600000X
+post-traumatic stress disorder (PTSD)	Psychiatry & Neurology	Psychiatry	2084P0800X
+kidney cancer	Urology	(none)	208800000X
+vulvar cancer	Obstetrics & Gynecology	Gynecologic Oncology	207VX0201X
+blepharitis	Ophthalmology	Cornea and External Diseases Specialist	207WX0120X
+celiac disease	Internal Medicine	Gastroenterology	207RG0100X
+cystitis (bladder infection)	Urology	(none)	208800000X
+sickle cell anemia	Internal Medicine	Hematology	207RH0000X
+subconjunctival hemorrhage	Ophthalmology	(none)	207W00000X
+hemorrhoids	Colon & Rectal Surgery	(none)	208C00000X
+contact dermatitis	Dermatology	(none)	207N00000X
+sinus bradycardia	Internal Medicine	Clinical Cardiac Electrophysiology	207RC0001X
+high blood pressure (essential hypertension)	Internal Medicine	Cardiovascular Disease	207RC0000X
+pelvic inflammatory disease	Obstetrics & Gynecology	Gynecology	207VG0400X
+liver disease (non-specific)	Internal Medicine	Hepatology	207RI0008X
+chronic constipation	Internal Medicine	Gastroenterology	207RG0100X
+thyroid cancer	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+flu (influenza)	Family Medicine	(none)	207Q00000X
+Friedreich ataxia	Psychiatry & Neurology	Neurology	2084N0400X
+tic (movement) disorder	Psychiatry & Neurology	Neurology	2084N0400X
+skin polyp (skin tag)	Dermatology	(none)	207N00000X
+brachial neuritis (Parsonage-Turner syndrome)	Psychiatry & Neurology	Neurology	2084N0400X
+cervical cancer	Obstetrics & Gynecology	Gynecologic Oncology	207VX0201X
+adrenal adenoma (adrenal tumor)	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+esophagitis	Internal Medicine	Gastroenterology	207RG0100X
+gas gangrene (clostridial myonecrosis)	Surgery	Trauma Surgery	2086S0127X
+yeast infection (candidiasis)	Internal Medicine	Infectious Disease	207RI0200X
+spina bifida	Neurological Surgery	(none)	207T00000X
+drug poisoning due to medication (overdose)	Emergency Medicine	Medical Toxicology	207PT0002X
+alcoholic liver disease	Internal Medicine	Hepatology	207RI0008X
+malignant hypertension (accelerated hypertension)	Internal Medicine	Hypertension Specialist	207RH0005X
+diverticulitis	Internal Medicine	Gastroenterology	207RG0100X
+moyamoya disease	Neurological Surgery	(none)	207T00000X
+heat exhaustion	Emergency Medicine	(none)	207P00000X
+psychotic disorder (unspecified)	Psychiatry & Neurology	Psychiatry	2084P0800X
+frostbite	Emergency Medicine	Undersea and Hyperbaric Medicine	207PE0005X
+atrophy of the corpus cavernosum (penile atrophy)	Urology	(none)	208800000X
+smoking or tobacco addiction	Preventive Medicine	Addiction Medicine	2083A0300X
+sprain or strain (acute musculoskeletal injury)	Orthopaedic Surgery	Sports Medicine	207XX0005X
+essential tremor	Psychiatry & Neurology	Neurology	2084N0400X
+open wound of the ear	Otolaryngology (ENT)	(none)	207Y00000X
+foreign body in the nose	Otolaryngology (ENT)	(none)	207Y00000X
+idiopathic painful menstruation (dysmenorrhea)	Obstetrics & Gynecology	Gynecology	207VG0400X
+Down syndrome	Medical Genetics	Clinical Genetics (M.D.)	207SG0201X
+idiopathic infrequent menstruation	Obstetrics & Gynecology	Reproductive Endocrinology	207VE0102X
+pneumothorax	Thoracic Surgery (Cardiothoracic Vascular Surgery)	(none)	208G00000X
+De Quervain disease (tenosynovitis)	Orthopaedic Surgery	Hand Surgery	207XS0106X
+fracture of the vertebra (spinal fracture)	Orthopaedic Surgery	Orthopaedic Surgery of the Spine	207XS0117X
+human immunodeficiency virus infection (HIV)	Internal Medicine	Infectious Disease	207RI0200X
+mumps	Internal Medicine	Infectious Disease	207RI0200X
+subarachnoid hemorrhage	Neurological Surgery	(none)	207T00000X
+acute fatty liver of pregnancy (AFLP)	Obstetrics & Gynecology	Maternal & Fetal Medicine	207VM0101X
+ectropion (eyelid eversion)	Ophthalmology	Ophthalmic Plastic and Reconstructive Surgery	207WX0200X
+scar (cicatrix)	Plastic Surgery	(none)	208200000X
+lactose intolerance	Internal Medicine	Gastroenterology	207RG0100X
+eustachian tube dysfunction (ETD)	Otolaryngology (ENT)	(none)	207Y00000X
+appendicitis	Surgery	(none)	208600000X
+Graves disease (hyperthyroidism)	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+dissociative disorder	Psychiatry & Neurology	Psychiatry	2084P0800X
+open wound of the face	Plastic Surgery	(none)	208200000X
+dislocation of the vertebra (spinal dislocation)	Orthopaedic Surgery	Orthopaedic Surgery of the Spine	207XS0117X
+phimosis	Urology	(none)	208800000X
+hyperemesis gravidarum	Obstetrics & Gynecology	Obstetrics	207VX0000X
+pregnancy (normal pregnancy)	Obstetrics & Gynecology	Obstetrics	207VX0000X
+thalassemia (thalassemic anemia)	Internal Medicine	Hematology	207RH0000X
+placenta previa	Obstetrics & Gynecology	Maternal & Fetal Medicine	207VM0101X
+epidural hemorrhage (epidural hematoma)	Neurological Surgery	(none)	207T00000X
+septic arthritis (infectious arthritis)	Orthopaedic Surgery	(none)	207X00000X
+athlete’s foot (tinea pedis)	Dermatology	(none)	207N00000X
+pleural effusion	Internal Medicine	Pulmonary Disease	207RP1001X
+aphakia (absence of lens in eye)	Ophthalmology	(none)	207W00000X
+vulvar disorder (benign)	Obstetrics & Gynecology	Gynecology	207VG0400X
+sialoadenitis (salivary gland infection)	Otolaryngology (ENT)	(none)	207Y00000X
+gynecomastia	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+urinary tract infection (UTI)	Urology	(none)	208800000X
+histoplasmosis	Internal Medicine	Infectious Disease	207RI0200X
+erythema multiforme	Dermatology	(none)	207N00000X
+scoliosis	Orthopaedic Surgery	Orthopaedic Surgery of the Spine	207XS0117X
+bunion (hallux valgus)	Orthopaedic Surgery	Foot and Ankle Surgery	207XX0004X
+arrhythmia (heart rhythm disorder)	Internal Medicine	Clinical Cardiac Electrophysiology	207RC0001X
+trigeminal neuralgia	Psychiatry & Neurology	Neurology	2084N0400X
+ankylosing spondylitis	Internal Medicine	Rheumatology	207RR0500X
+peripheral nerve disorder (neuropathy)	Psychiatry & Neurology	Neuromuscular Medicine	2084N0008X
+sebaceous cyst	Dermatology		207N00000X
+poisoning due to antipsychotics	Emergency Medicine	Medical Toxicology	207PT0002X
+neurosis	Psychiatry & Neurology	Psychiatry	2084P0800X
+prostate cancer	Urology		208800000X
+cerebral edema	Neurological Surgery		207T00000X
+dislocation of the finger	Orthopaedic Surgery	Hand Surgery	207XS0106X
+birth trauma	Pediatrics	Neonatal-Perinatal Medicine	2080N0001X
+chronic pancreatitis	Internal Medicine	Gastroenterology	207RG0100X
+hematoma	Surgery	Trauma Surgery	2086S0127X
+carcinoid syndrome	Internal Medicine	Medical Oncology	207RX0202X
+open wound of the head	Emergency Medicine		207P00000X
+seborrheic keratosis	Dermatology		207N00000X
+burn	Plastic Surgery		208200000X
+spontaneous abortion	Obstetrics & Gynecology	Obstetrics	207VX0000X
+genital herpes	Internal Medicine	Infectious Disease	207RI0200X
+adjustment reaction	Psychiatry & Neurology	Psychiatry	2084P0800X
+gallstone	Surgery		208600000X
+multiple sclerosis	Psychiatry & Neurology	Neurology	2084N0400X
+zenker diverticulum	Otolaryngology		207Y00000X
+fracture of the pelvis	Orthopaedic Surgery	Orthopaedic Trauma	207XX0801X
+pneumoconiosis	Internal Medicine	Pulmonary Disease	207RP1001X
+hyperlipidemia	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+ulcerative colitis	Internal Medicine	Gastroenterology	207RG0100X
+male genitalia infection	Urology		208800000X
+hpv	Internal Medicine	Infectious Disease	207RI0200X
+angina	Internal Medicine	Cardiovascular Disease	207RC0000X
+injury to the spinal cord	Physical Medicine & Rehabilitation	Spinal Cord Injury Medicine	2081P0004X
+nasal polyp	Otolaryngology		207Y00000X
+lichen simplex	Dermatology		207N00000X
+trichiasis	Ophthalmology		207W00000X
+acariasis	Dermatology		207N00000X
+colorectal cancer	Colon & Rectal Surgery		208C00000X
+skin pigmentation disorder	Dermatology		207N00000X
+factitious disorder	Psychiatry & Neurology	Psychiatry	2084P0800X
+lymphogranuloma venereum	Internal Medicine	Infectious Disease	207RI0200X
+galactorrhea of unknown cause	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+g6pd enzyme deficiency	Internal Medicine	Hematology	207RH0000X
+nerve impingement near the shoulder	Orthopaedic Surgery	Orthopaedic Surgery of the Spine	207XS0117X
+toxoplasmosis	Internal Medicine	Infectious Disease	207RI0200X
+fibroadenoma	Surgery	Surgical Oncology	2086X0206X
+open wound of the hand	Orthopaedic Surgery	Hand Surgery	207XS0106X
+missed abortion	Obstetrics & Gynecology	Obstetrics	207VX0000X
+diabetic ketoacidosis	Internal Medicine	Endocrinology, Diabetes & Metabolism	207RE0101X
+granuloma inguinale	Internal Medicine	Infectious Disease	207RI0200X
+obsessive compulsive disorder (ocd)	Psychiatry & Neurology	Psychiatry	2084P0800X
+injury of the ankle	Orthopaedic Surgery	Foot and Ankle Surgery	207XX0004X
+hyponatremia	Internal Medicine	Nephrology	207RN0300X
+stricture of the esophagus	Internal Medicine	Gastroenterology	207RG0100X
+fracture of the ankle	Orthopaedic Surgery	Foot and Ankle Surgery	207XX0004X
+soft tissue sarcoma	Surgery	Surgical Oncology	2086X0206X
+bone disorder	Orthopaedic Surgery		207X00000X
+epilepsy	Psychiatry & Neurology	Epilepsy	2084E0001X
+personality disorder	Psychiatry & Neurology	Psychiatry	2084P0800X
+shingles (herpes zoster)	Dermatology		207N00000X
+tourette syndrome	Psychiatry & Neurology	Neurology	2084N0400X
+avascular necrosis	Orthopaedic Surgery		207X00000X
+strep throat	Otolaryngology		207Y00000X
+spinocerebellar ataxia	Psychiatry & Neurology	Neurology	2084N0400X
+osteomyelitis	Internal Medicine	Infectious Disease	207RI0200X
+sjogren syndrome	Internal Medicine	Rheumatology	207RR0500X
+adhesive capsulitis of the shoulder	Orthopaedic Surgery	Sports Medicine	207XX0005X
+viral hepatitis	Internal Medicine	Hepatology	207RI0008X
+tonsillar hypertrophy	Otolaryngology		207Y00000X
+gastritis	Internal Medicine	Gastroenterology	207RG0100X
+skin cancer	Dermatology	MOHS-Micrographic Surgery	207ND0101X
+rheumatic fever	Pediatrics	Pediatric Cardiology	2080P0202X
+aphthous ulcer	Otolaryngology		207Y00000X
+tonsillitis	Otolaryngology		207Y00000X
+intestinal cancer	Surgery	Surgical Oncology	2086X0206X
+rocky mountain spotted fever	Internal Medicine	Infectious Disease	207RI0200X
+stomach cancer	Surgery	Surgical Oncology	2086X0206X
+developmental disability	Pediatrics	Neurodevelopmental Disabilities	2080P0008X
+acute stress reaction	Psychiatry & Neurology	Psychiatry	2084P0800X
+delirium	Internal Medicine	Geriatric Medicine	207RG0300X
+callus	Podiatrist	Primary Podiatric Medicine	213EP1101X
+guillain barre syndrome	Psychiatry & Neurology	Neuromuscular Medicine	2084N0008X
+lumbago	Physical Medicine & Rehabilitation	Pain Medicine	2081P2900X
+deviated nasal septum	Otolaryngology		207Y00000X
+hemangioma	Dermatology	Pediatric Dermatology	207NP0225X
+peripheral arterial disease	Surgery	Vascular Surgery	2086S0129X
+chronic back pain	Pain Medicine	Pain Medicine	208VP0000X
+heart failure	Internal Medicine	Advanced Heart Failure and Transplant Cardiology	207RA0001X
+conjunctivitis	Ophthalmology		207W00000X
+herniated disk	Neurological Surgery		207T00000X
+rhabdomyolysis	Internal Medicine	Nephrology	207RN0300X
+breast infection (mastitis)	Obstetrics & Gynecology		207V00000X
+abdominal aortic aneurysm	Surgery	Vascular Surgery	2086S0129X
+pulmonary embolism	Internal Medicine	Pulmonary Disease	207RP1001X
+conduct disorder	Psychiatry & Neurology	Child & Adolescent Psychiatry	2084P0804X
+mastectomy	Surgery	Surgical Oncology	2086X0206X
+epididymitis	Urology		208800000X
+premature rupture of amniotic membrane	Obstetrics & Gynecology	Maternal & Fetal Medicine	207VM0101X
+molluscum contagiosum	Dermatology		207N00000X
+necrotizing fasciitis	Surgery	Trauma Surgery	2086S0127X
+benign vaginal discharge (leukorrhea)	Obstetrics & Gynecology	Gynecology	207VG0400X
+bladder obstruction	Urology		208800000X
+melanoma	Surgery	Surgical Oncology	2086X0206X
+cervical disorder	Obstetrics & Gynecology	Gynecology	207VG0400X
+laryngitis	Otolaryngology		207Y00000X
+dyshidrosis	Dermatology		207N00000X
+poisoning due to opioids	Emergency Medicine	Medical Toxicology	207PT0002X
+diaper rash	Pediatrics		208000000X
+lichen planus	Dermatology		207N00000X
+gastroduodenal ulcer	Internal Medicine	Gastroenterology	207RG0100X
+inguinal hernia	Surgery		208600000X
+eczema	Dermatology		207N00000X
+asperger syndrome	Pediatrics	Developmental - Behavioral Pediatrics	2080P0006X
+mucositis	Internal Medicine	Medical Oncology	207RX0202X
+paronychia	Dermatology		207N00000X
+open wound of the jaw	Oral & Maxillofacial Surgery		204E00000X
+white blood cell disease	Internal Medicine	Hematology & Oncology	207RH0003X
+kaposi sarcoma	Internal Medicine	Hematology & Oncology	207RH0003X
+spondylolisthesis	Orthopaedic Surgery	Orthopaedic Surgery of the Spine	207XS0117X
+pseudotumor cerebri	Psychiatry & Neurology	Neurology	2084N0400X
+conjunctivitis due to virus	Ophthalmology		207W00000X
+open wound of the nose	Otolaryngology		207Y00000X
