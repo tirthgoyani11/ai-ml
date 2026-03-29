@@ -1,0 +1,7 @@
+venv/
+results/
+not_in_use/
+.ipynb_checkpoints/
+data/Final_Augmented_dataset_Diseases_and_Symptoms.csv
+.DS_Store
+**/.DS_Store
