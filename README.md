@@ -1,4 +1,4 @@
-# CS7180 Final Project
+# Ai/ml Final Project
 
 ## Features
 
